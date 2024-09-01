@@ -63,12 +63,13 @@ The study of consciousness is referred to as the "ultimate challenge of artifici
 
 ## Interview
 
-​| 访谈/科普标题 | 受访者 | 出版社/期刊 | 出版时间 | 简介 |
+| 访谈/科普标题 | 受访者 | 出版社/期刊 | 出版时间 | 简介 |
 | --- | --- | --- | --- | --- |
-| A Test for Consciousness | Christof Koch & Giulio Tononi | Scientific American | 不详 | 这篇科普文章讨论了意识的检测方法，尤其是基于整合信息理论（IIT）的检测。 |
-| 对话现代意识理论先驱 | Stanislas Dehaene & Christof Koch | Neuron | 2024年 | 这两篇访谈分别介绍了Stanislas Dehaene和Christof Koch在意识研究领域的贡献、研究现状和未来方向。 |
+| A Test for Consciousness | Christof Koch, Giulio Tononi | Scientific American | 不详 | 这篇科普文章讨论了意识的检测方法，尤其是基于整合信息理论（IIT）的检测。 |
+| 对话现代意识理论先驱 | Stanislas Dehaene, Christof Koch | Neuron | 2024年 | 这两篇访谈分别介绍了Stanislas Dehaene和Christof Koch在意识研究领域的贡献、研究现状和未来方向。 |
 | Stanislas Dehaene访谈 | Stanislas Dehaene | Neuron | 2024年 | 访谈探讨了Dehaene在意识研究中的工作，尤其是他在全局神经工作空间理论（GNWT）方面的贡献。 |
 | Christof Koch访谈 | Christof Koch | Neuron | 2024年 | 访谈探讨了Koch在意识研究中的工作，特别是他在整合信息理论（IIT）和意识检测方面的贡献。 |
+
 
 ## Book
 | 资源类型 | 资源名称 | 作者 | 出版时间 | 简介 | 中文版 |
