@@ -61,4 +61,42 @@ The study of consciousness is referred to as the "ultimate challenge of artifici
 | Definition and Exploration of Machine Consciousness           | [Consciousness in Artificial Intelligence: Insights from the Science of Consciousness  ](https://arxiv.org/pdf/2308.08708.pdf)                                                                                                                                                  | ArXiv                                                      | 2023             | Analyzes the techniques for assessing and achieving consciousness in artificial intelligence systems based on computational functionalism theory.                                              |
 | Definition and Exploration of Machine Consciousness           | [Conscious machines: defining questions  ](https://www.science.org/doi/pdf/10.1126/science.aar4163)                                                                                                                                                                             | Science                                                    | 2018             | Rebuttal to Dehaene (2017), suggesting that existing deep learning systems may possess                                                                                                         |
 
-​
+## Interview
+
+​| 访谈/科普标题 | 受访者 | 出版社/期刊 | 出版时间 | 简介 |
+| --- | --- | --- | --- | --- |
+| A Test for Consciousness | Christof Koch & Giulio Tononi | Scientific American | 不详 | 这篇科普文章讨论了意识的检测方法，尤其是基于整合信息理论（IIT）的检测。 |
+| 对话现代意识理论先驱 | Stanislas Dehaene & Christof Koch | Neuron | 2024年 | 这两篇访谈分别介绍了Stanislas Dehaene和Christof Koch在意识研究领域的贡献、研究现状和未来方向。 |
+| Stanislas Dehaene访谈 | Stanislas Dehaene | Neuron | 2024年 | 访谈探讨了Dehaene在意识研究中的工作，尤其是他在全局神经工作空间理论（GNWT）方面的贡献。 |
+| Christof Koch访谈 | Christof Koch | Neuron | 2024年 | 访谈探讨了Koch在意识研究中的工作，特别是他在整合信息理论（IIT）和意识检测方面的贡献。 |
+
+## Book
+| 资源类型 | 资源名称 | 作者 | 出版时间 | 简介 | 中文版 |
+| --- | --- | --- | --- | --- | --- |
+| 书籍 | From Biological to Artificial Consciousness | Masataka Watanabe | 2022 | 探讨了从生物意识到人工意识的转变过程及其理论基础。 | - |
+| 书籍 | 机器意识 —— 人工智能的终极挑战 | 周昌乐 | 2021 | 深入探讨了机器意识的挑战和前景。 | - |
+| 书籍 | Consciousness and the Brain | Stanislas Dehaene | 2014 | 研究了意识与大脑之间的关系，提供了神经科学背景下的意识理论。 | 脑与意识 |
+| 书籍 | A Thousand Brains | Jeff Hawkins | 2021 | 提出了多脑模型，探讨了如何模拟大脑的认知功能以实现人工意识。 | - |
+| 书籍 | The Feeling of Life Itself | Christof Koch | 2019 | 探讨了意识的基本感受以及其在生命中的作用。 | 生命本身的感觉 |
+| 书籍 | Consciousness -- Confessions of a Romantic Reductionist | Christof Koch | 2017 | 探讨了还原论视角下的意识问题。 | 脑与意识 —— 一个还原论者的浪漫自白 |
+| 书籍 | Consciousness | S. Blackmore | 2018 | 提供了意识之谜的多角度分析，探讨了不同的意识理论。 | 破解意识之谜 |
+
+## Scientists
+
+| 科学家名字 | 单位 | 主要贡献 | 网页 |
+| --- | --- | --- | --- |
+| Ned Block | New York University, Philosophy | 在意识哲学领域作出了重要贡献，特别是现象意识和接入意识的区分及其在机器意识中的应用。 | [Google Scholar](https://scholar.google.com/citations?user=0pZiZ7wAAAAJ&hl=en&oi=ao) |
+| Francis Crick | University of Cambridge (8 June 1916 – 28 July 2004) | 英国分子生物学家，与James Watson共同发现了DNA的双螺旋结构，并在后期研究中致力于探索意识的神经科学基础。 | [Wikipedia](https://en.wikipedia.org/wiki/Francis_Crick) |
+| Christof Koch | Chief Scientist, MindScope Program, Allen Institute | 整合信息理论（IIT）的主要倡导者之一，研究意识的神经基础，特别是意识如何从大脑活动中产生。 | [Google Scholar](https://scholar.google.com/citations?user=JYt9T_sAAAAJ&hl=en&oi=ao) |
+| David Chalmers | New York University, Philosophy | 提出了“意识的艰难问题”，探讨了意识与物理世界的关系，以及意识在人工智能中的应用。 | [Google Scholar](https://scholar.google.com/citations?user=o8AfF3MAAAAJ&hl=en&oi=ao) |
+| Giulio Tononi | University of Wisconsin School of Medicine and Public Health | 整合信息理论（IIT）的创始人之一，该理论为机器意识的研究提供了重要框架。 | [Google Scholar](https://scholar.google.com/citations?user=x6uUysgAAAAJ&hl=en&oi=ao) |
+| Stanislas Dehaene | Professor of Experimental Cognitive Psychology, Collège de France | 全球工作空间理论（GWT）的主要研究者之一，探讨了意识的认知和神经基础，并应用于机器意识研究。 | [Google Scholar](https://scholar.google.com/citations?hl=en&user=2Dd5uoIAAAAJ) |
+| Lucia Melloni | Max Planck for Empirical Aesthetics | 在意识的时间特性研究中作出了重要贡献，特别是跨不同意识状态（如感知、觉醒和注意）之间的转变机制。 | [Google Scholar](https://scholar.google.com/citations?user=fZLdNigAAAAJ&hl=en&oi=ao) |
+| Jeff Hawkins | MIT | 提出了“千脑理论”，探讨了如何模拟大脑的认知功能以实现人工意识。 | [Wikipedia](https://en.wikipedia.org/wiki/Jeff_Hawkins) |
+| Karl Friston | University College London | Friston是自由能原理（Free Energy Principle）的提出者，该原理是一个广泛应用于神经科学和人工智能的框架。 | [Google Scholar](https://scholar.google.com/citations?user=q_4u0aoAAAAJ&hl=en&oi=ao) |
+| Anil Seth | Sussex University | Seth是意识科学领域的领军人物之一，特别是在预测编码和意识的神经计算模型。 | [Google Scholar](https://scholar.google.com/citations?user=3eJCZCkAAAAJ&hl=en&oi=ao) |
+| Manuel Blum | CMU | 计算复杂性理论的奠基者之一，对密码学、程序检查和伪随机数生成等领域有重要贡献，1995年图灵奖得主。 | [CMU Profile](https://www.cs.cmu.edu/~mblum/index.html) |
+| Lenore Blum | CMU | 在实数计算、密码学和伪随机数生成领域做出贡献，推动数学和计算机科学领域的多样性，创立了多个支持女性的项目。 | [CMU Profile](http://www.cs.cmu.edu/~lblum/) |
+| 张江 | 北京师范大学 | 系统科学与复杂系统涌现现象研究，自指系统研究。集智俱乐部（中国最有影响力的非官方学术组织之一）创始人。 | [集智俱乐部](https://wiki.swarma.org/index.php/%E5%BC%A0%E6%B1%9F) |
+| 周昌乐 | 厦门大学 | 机器意识研究，注意力、情感计算、自我建模等 | [厦门大学](https://informatics.xmu.edu.cn/info/1011/6626.htm) |
+
