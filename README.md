@@ -1,9 +1,20 @@
-# AIAA 5050 - L01 Machine Consciousness
+- [1. AIAA 5050 - L01 Machine Consciousness](#1-aiaa-5050---l01-machine-consciousness)
+  - [1.1. Course Information](#11-course-information)
+  - [1.2. Course Description](#12-course-description)
+  - [1.3. Recommended Papers](#13-recommended-papers)
+    - [1.3.1 English](#131-english)
+    - [1.3.1 Chinese](#131-chinese)
+  - [1.4. Interview](#14-interview)
+  - [1.5. Book](#15-book)
+  - [1.6. Scientists](#16-scientists)
+
+# 1. AIAA 5050 - L01 Machine Consciousness
 
 Welcome to the GitHub page for the "**AIAA 5050 - L01 Machine Consciousness**" course!
 This course is offered at HKUST(GZ) during the Fall semester of the 2024-25 academic year. It is focused on exploring the "ultimate challenge of artificial intelligence" - the study of consciousness. Here, we will delve into the history, current status, and future challenges of machine consciousness research.
 
-## Course Information
+
+## 1.1. Course Information
 - Institution: HKUST(GZ)
 - Term: Fall 2024-25
 - Class Number: 6240
@@ -17,12 +28,13 @@ This course is offered at HKUST(GZ) during the Fall semester of the 2024-25 acad
 - Prerequisites: Basic programming skills
 
 
-## Course Description
+## 1.2. Course Description
 
 The study of consciousness is referred to as the "ultimate challenge of artificial intelligence." This course provides instruction and discussions in the field of machine consciousness. The main content includes an introduction to consciousness research, mainstream theories of consciousness, research on self-awareness, attention mechanisms, optimization of intelligent agent goals, subjectivity and affective computing, consciousness modeling and evaluation of artificial intelligence systems, and analysis and control of risks related to machine consciousness. Through this course, participants can gain a fairly comprehensive and in-depth understanding of the research history and current status of the field of machine consciousness, and engage in collaborative research on several specific issues.
 
-## Recommended Papers
+## 1.3. Recommended Papers
 
+### 1.3.1 English
 
 | Paper Category                                                | Paper Title                                                                                                                                                                                                                                                                     | Publisher/Journal                                          | Publication Year | Introduction                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,6 +74,7 @@ The study of consciousness is referred to as the "ultimate challenge of artifici
 | Definition and Exploration of Machine Consciousness           | [Consciousness in Artificial Intelligence: Insights from the Science of Consciousness  ](https://arxiv.org/pdf/2308.08708.pdf)                                                                                                                                                  | ArXiv                                                      | 2023             | Analyzes the techniques for assessing and achieving consciousness in artificial intelligence systems based on computational functionalism theory.                                              |
 | Definition and Exploration of Machine Consciousness           | [Conscious machines: defining questions  ](https://www.science.org/doi/pdf/10.1126/science.aar4163)                                                                                                                                                                             | Science                                                    | 2018             | Rebuttal to Dehaene (2017), suggesting that existing deep learning systems may possess                                                                                                         |
 
+### 1.3.1 Chinese
 
 | Paper Category                                                | Paper Title                                                                                                                                                                                                                                                                     | Publisher/Journal                                          | Publication Year | Introduction                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -135,7 +148,7 @@ The study of consciousness is referred to as the "ultimate challenge of artifici
 
 
 
-## Interview
+## 1.4. Interview
 
 | 访谈/科普标题 | 受访者 | 出版社/期刊 | 出版时间 | 简介 |
 | --- | --- | --- | --- | --- |
@@ -145,7 +158,7 @@ The study of consciousness is referred to as the "ultimate challenge of artifici
 | Christof Koch访谈 | Christof Koch | Neuron | 2024年 | 访谈探讨了Koch在意识研究中的工作，特别是他在整合信息理论（IIT）和意识检测方面的贡献。 |
 
 
-## Book
+## 1.5. Book
 | 资源类型 | 资源名称 | 作者 | 出版时间 | 简介 | 中文版 |
 | --- | --- | --- | --- | --- | --- |
 | 书籍 | From Biological to Artificial Consciousness | Masataka Watanabe | 2022 | 探讨了从生物意识到人工意识的转变过程及其理论基础。 | - |
@@ -156,7 +169,7 @@ The study of consciousness is referred to as the "ultimate challenge of artifici
 | 书籍 | Consciousness -- Confessions of a Romantic Reductionist | Christof Koch | 2017 | 探讨了还原论视角下的意识问题。 | 脑与意识 —— 一个还原论者的浪漫自白 |
 | 书籍 | Consciousness | S. Blackmore | 2018 | 提供了意识之谜的多角度分析，探讨了不同的意识理论。 | 破解意识之谜 |
 
-## Scientists
+## 1.6. Scientists
 
 | 科学家名字 | 单位 | 主要贡献 | 网页 |
 | --- | --- | --- | --- |
