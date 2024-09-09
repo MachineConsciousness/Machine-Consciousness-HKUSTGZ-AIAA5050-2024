@@ -43,6 +43,8 @@ This course is offered at HKUST(GZ) during the Fall semester of the 2024-25 acad
 
 The study of consciousness is referred to as the "ultimate challenge of artificial intelligence." This course provides instruction and discussions in the field of machine consciousness. The main content includes an introduction to consciousness research, mainstream theories of consciousness, research on self-awareness, attention mechanisms, optimization of intelligent agent goals, subjectivity and affective computing, consciousness modeling and evaluation of artificial intelligence systems, and analysis and control of risks related to machine consciousness. Through this course, participants can gain a fairly comprehensive and in-depth understanding of the research history and current status of the field of machine consciousness, and engage in collaborative research on several specific issues.
 
+**If you need full materials such as PPT videos, please contact the instructor Prof. YUE （mail: yutaoyue "at" hkust-gz.edu.cn）**
+
 ## 1.3. Recommended Papers
 
 ### 1.3.1 English
